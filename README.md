@@ -5,7 +5,10 @@
 ## Repository Construction
 ```bash
 ├── /BE
+-> Database : h2
+-> Spring boot
 └── /FE
+-> react
 ```
 - `/BE` : 백엔드
 - `/FE` : 프론트엔드
